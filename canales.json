@@ -6428,24 +6428,6 @@
                             ]
                         },
                         {
-                            "name": "Fibwi",
-                            "web": "https://Fibwi.es",
-                            "logo": "https://i.imgur.com/4vcGzcC.png",
-                            "epg_id": "Fibwi.es",
-                            "options": [
-                                {
-                                    "format": "m3u8",
-                                    "url": "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8",
-                                    "geo2": null,
-                                    "res": null,
-                                    "lang": null
-                                }
-                            ],
-                            "extra_info": [
-                                "EMB"
-                            ]
-                        },
-                        {
                             "name": "TEF",
                             "web": "https://teftv.com/la-tef-en-directe/",
                             "logo": "https://graph.facebook.com/TEFTV/picture?width=200&height=200",
